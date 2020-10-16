@@ -14,7 +14,7 @@ Para levantar el proyecto seguir los siguientes pasos:
 
 
 Consignas:
-La realidad es que este proyecto es un esqueleto de una app con React y Back conectado para poder hacer un todolist, es decir, una lista de tareas donde puedas agregar, editar o borrar una tarea.
+La realidad es que este proyecto es un esqueleto de una app con React y Back conectado para poder hacer un todolist, es decir, una lista de tareas donde puedas agregar, editar o borrar una tarea. Van a ver que no hay webpack, porque creamos esto usando create-react-app, y para que solo focalicen en React y Back y no tanto en la configuración.
 
 Para esto vas a tener que practicar React, Redux y en el backend Express y Sequelize, es importante poder cubrir todo para entender como cierra el circuito. Obviamente mientras más funcionalidades y cosas tengas mejor, así podes practicar en profundidad los temas, pero para esto ya vamos a tener los practice checkpoints para practicar por ejemplo hooks de sequelize.
 
